@@ -1,12 +1,10 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 # Discord-Server-Boost-Botter
 Boost your Discord server with nitro tokens accounts. 
 
 # Boost bot working 2023
 last used 05/02/2023 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/BoostW0rld/Discord-Server-Boost-Botter" data-color-scheme="no-preference: light; light: light_high_contrast; dark: dark_high_contrast;" data-icon="octicon-star" data-size="large" aria-label="Star BoostW0rld/Discord-Server-Boost-Botter on GitHub">Star</a>
+
 # Commands:
 ```
 /boost (Boosts the server)
