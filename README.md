@@ -3,7 +3,7 @@
 Boost your Discord server with nitro tokens accounts. 
 
 # Boost bot working 2023
-last used 05/02/2023 
+last used 05/02/2023 ![star](https://camo.githubusercontent.com/5183b8dc77205b3248d2c21a635cccbf0f972d76c52bdff4700d51b78629c405/68747470733a2f2f692e696d6775722e636f6d2f34316e68764a312e706e67)
 
 # Commands:
 ```
