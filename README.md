@@ -2,6 +2,7 @@
 Boost your Discord server with nitro tokens accounts. 
 
 # Commands:
+```
 /boost (Boosts the server)
 /stock (Shows the amount of stock you have left)
 /givetokens
@@ -18,8 +19,6 @@ Boost your Discord server with nitro tokens accounts.
 /whitelist
 /unlisence
 
-15 FUCKING COMMANDS GUYS
-
 Features
 Captcha Bypass
 Captcha Support (Capmonster)
@@ -30,5 +29,6 @@ Error Handling
 Easy to use
 Multistock ( 3 Months and 1 Month )
 Sell.app and sellix api integration 
+```
 
 # We give you free tokens in this [file](blob/main/tokens.txt)
