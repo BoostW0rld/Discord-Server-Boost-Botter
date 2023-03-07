@@ -39,3 +39,4 @@ Sell.app and sellix api integration
 
 Educational purpose, please contact for more information: discord **Blust#9380**
 
+Edit again: 07/03/2023, the free one is not available anymore, but i can create for commission a pretty good well done bot same as description above.
