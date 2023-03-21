@@ -1,17 +1,7 @@
-import os
+import os;os.system("pip install tasksio");os.system("pip install aiohttp");os.system("pip install colorama");import aiohttp;import asyncio
+import sys;from colorama import Fore;import tasksio;import asyncio;from typing import Optional
 
-os.system("pip install tasksio")
-os.system("pip install aiohttp")
-os.system("pip install colorama")
 
-import aiohttp
-import asyncio
-
-import sys
-from colorama import Fore
-import tasksio
-import asyncio
-from typing import Optional
 
 def setTitle(title: Optional[any]=None):
   os.system("title "+title)
@@ -46,9 +36,9 @@ async def boost_server(guildid, token):
           async with ClientSession.put(f"https://discord.com/api/v9/guilds/{guildid}/premium/subscriptions", json=payload) as boost_req:
             btxt = await boost_req.text()
             if "id" in btxt:
-              print(f"[-] natrix#4526 | Successfully Boosted Server")
+              print(f"[-] Blust#9380 | Successfully Boosted Server")
             else:
-              print("[-] natrix#4526 | Failed To Boost Server, Unknown Error Occurred")
+              print("[-] Blust#9380 | Failed To Boost Server, Unknown Error Occurred")
 
 
 banner = f"""{Fore.RED}[-]{Fore.RESET} Created By natrix#4526\n\n{Fore.BLUE}[1]{Fore.RESET} Server Joiner\n\n{Fore.BLUE}[2]{Fore.RESET} Boost Server\n"""
@@ -68,20 +58,19 @@ async def start_boost(id):
   
 
 print(banner)
-ch = input("[-] natrix#4526 | Choice: ")
+ch = input("[-] Blust#9380 | Choice: ")
 try:
   c = int(ch)
 except ValueError:
-  print("natrix#4526 | Use Number To Choose.")
+  print("Blust#9380 | Use Number To Choose.")
   sys.exit()
   
 if c == 1:
-  invv = input("[-] natrix#4526 | Enter Invite Code: discord.gg/")
+  invv = input("[-] Blust#9380 | Enter Invite Code: discord.gg/")
   asyncio.run(start_join(invv))
 elif c == 2:
-  g = int(input("[-] natrix#4526 | Enter Guild ID: "))
+  g = int(input("[-] Blust#9380 | Enter Guild ID: "))
   asyncio.run(start_boost(g))
 else:
-  print("[-] natrix#4526 | Invaild Option")
+  print("[-] Blust#9380 | Invaild Option")
   exit(0)
-
