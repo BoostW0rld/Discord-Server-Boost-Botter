@@ -37,6 +37,6 @@ Sell.app and sellix api integration
 
 # We give you free tokens in this [file](blob/main/tokens.txt)
 
-Educational purpose, please contact for more information: discord **Blust#6666**
+Educational purpose, please contact for more information: discord **Blust#6367**
 
 Edit again: 07/03/2023, the free one is not available anymore, but i can create for commission a pretty good well done bot same as description above.
