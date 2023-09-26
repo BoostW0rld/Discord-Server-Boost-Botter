@@ -37,6 +37,6 @@ Sell.app and sellix api integration
 
 # We give you free tokens in this [file](blob/main/tokens.txt)
 
-Educational purpose, please contact for more information: discord **Blust#6367**
+Educational purpose, Check this if you want to buy the full source code: https://cheapserverboost.sellpass.io/products/BOOST-BOT-V--SRC
 
 Edit again: 07/03/2023, the free one is not available anymore, but i can create for commission a pretty good well done bot same as description above.
